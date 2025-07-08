@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Arquivos de ambiente e credenciais
+.env
+
+# Distribuição / empacotamento
+build/
+dist/
+*.egg-info/
+*.egg
+*.whl
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Test outputs
+.pytest_cache/
